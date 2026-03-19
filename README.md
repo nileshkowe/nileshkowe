@@ -1,16 +1,52 @@
-## Hi there 👋
+# Nilesh Kowe
 
-<!--
-**nileshkowe/nileshkowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | Computer Vision | Machine Learning | Full-stack | Python | OpenCV | FastAPI | React
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+AI Engineer working on real-world computer vision and inspection systems used in industrial environments.
+
+- OCR pipelines
+- Industrial AI vision systems
+- Multi-camera inference systems
+- Backend APIs (FastAPI)
+- Full-stack apps (React + Python)
+- Machine Learning / Computer Vision
+
+---
+
+## Projects
+
+Portfolio  
+https://nileshkowe.vercel.app
+
+GitHub  
+https://github.com/nileshkowe
+
+---
+
+## Tech stack
+
+Python  
+OpenCV  
+FastAPI  
+React  
+TypeScript  
+Docker  
+Machine Learning  
+Computer Vision  
+Linux  
+Git  
+
+---
+
+## Current work
+
+Working on:
+
+- Computer Vision inspection systems
+- OCR pipelines
+- AI backend APIs
+- Real-time inference apps
